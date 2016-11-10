@@ -18,7 +18,7 @@ angular.module('starter.controllers', [])
   }).then(function(modal) {
     $scope.modal = modal;
   });
-
+  //Test2SourceTree
   // Triggered in the login modal to close it
   $scope.closeLogin = function() {
     $scope.modal.hide();
