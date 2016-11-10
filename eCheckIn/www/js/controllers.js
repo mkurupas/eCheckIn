@@ -19,6 +19,8 @@ angular.module('starter.controllers', [])
     $scope.modal = modal;
   });
   //Test2SourceTree
+
+  //STBranch1-2 Testarino
   // Triggered in the login modal to close it
   $scope.closeLogin = function() {
     $scope.modal.hide();
